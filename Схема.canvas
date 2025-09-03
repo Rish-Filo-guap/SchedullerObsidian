@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"df57c3efd93f52aa","type":"text","text":"SQL БД клиентов\n[[Tables.canvas|Tables]]","x":-522,"y":260,"width":240,"height":60},
+		{"id":"08b116af8ad9bfaa","type":"text","text":"Web-Client \n","x":-272,"y":-335,"width":125,"height":80},
+		{"id":"17d8f0c15e94c469","type":"text","text":"web gateway","x":-282,"y":-180,"width":145,"height":60},
+		{"id":"ace28d88d9a3a7f4","type":"text","text":"Android-Client","x":-522,"y":-335,"width":165,"height":60},
+		{"id":"48c4815f933c4026","type":"text","text":"app gateway","x":-522,"y":-150,"width":145,"height":50},
+		{"id":"d2c8097def34ba94","type":"text","text":"Account node","x":-502,"y":80,"width":250,"height":60},
+		{"id":"85a05d6dc88f3e9c","type":"text","text":"Schedule node","x":-219,"y":80,"width":165,"height":50},
+		{"id":"7e13205d8cad74ad","type":"text","text":"ГУАП сайт","x":-54,"y":-330,"width":120,"height":50},
+		{"id":"6d40f27b03ab3755","type":"text","text":"noSQL БД расписания","x":-209,"y":260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6920c6281687dbb1","fromNode":"17d8f0c15e94c469","fromSide":"top","toNode":"08b116af8ad9bfaa","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"57f39c9668496c6d","fromNode":"7e13205d8cad74ad","fromSide":"bottom","toNode":"85a05d6dc88f3e9c","toSide":"top"},
+		{"id":"f33ca14da02de52d","fromNode":"ace28d88d9a3a7f4","fromSide":"bottom","toNode":"48c4815f933c4026","toSide":"top"},
+		{"id":"cd4fcbcee566dc9b","fromNode":"48c4815f933c4026","fromSide":"top","toNode":"ace28d88d9a3a7f4","toSide":"bottom"},
+		{"id":"a26e4bf34030dfc5","fromNode":"d2c8097def34ba94","fromSide":"bottom","toNode":"df57c3efd93f52aa","toSide":"top"},
+		{"id":"1e335f3a908a5b17","fromNode":"df57c3efd93f52aa","fromSide":"top","toNode":"d2c8097def34ba94","toSide":"bottom"},
+		{"id":"82aa02fc02b97061","fromNode":"6d40f27b03ab3755","fromSide":"top","toNode":"85a05d6dc88f3e9c","toSide":"bottom"},
+		{"id":"91ee41fe32ffcccc","fromNode":"85a05d6dc88f3e9c","fromSide":"bottom","toNode":"6d40f27b03ab3755","toSide":"top"},
+		{"id":"e0ae0bb94acdd316","fromNode":"d2c8097def34ba94","fromSide":"top","toNode":"48c4815f933c4026","toSide":"bottom"},
+		{"id":"3b4fa60470a77693","fromNode":"48c4815f933c4026","fromSide":"bottom","toNode":"d2c8097def34ba94","toSide":"top"},
+		{"id":"e9801f2c81882c1a","fromNode":"d2c8097def34ba94","fromSide":"top","toNode":"17d8f0c15e94c469","toSide":"bottom"},
+		{"id":"bf7c7ead67c80e53","fromNode":"17d8f0c15e94c469","fromSide":"bottom","toNode":"d2c8097def34ba94","toSide":"top"},
+		{"id":"2f9b0370a64ec53f","fromNode":"17d8f0c15e94c469","fromSide":"bottom","toNode":"85a05d6dc88f3e9c","toSide":"top"},
+		{"id":"7ed813e4a52c4447","fromNode":"48c4815f933c4026","fromSide":"bottom","toNode":"85a05d6dc88f3e9c","toSide":"top"}
+	]
+}

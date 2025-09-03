@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"32c64a8c42277f05","type":"file","file":"Tables/Client.md","x":-800,"y":-440,"width":220,"height":240},
+		{"id":"8c3163dd559c1856","x":-440,"y":-440,"width":210,"height":240,"type":"file","file":"Tables/Schedules.md"}
+	],
+	"edges":[
+		{"id":"9f5b5d263594b84c","fromNode":"32c64a8c42277f05","fromSide":"right","toNode":"8c3163dd559c1856","toSide":"left"}
+	]
+}

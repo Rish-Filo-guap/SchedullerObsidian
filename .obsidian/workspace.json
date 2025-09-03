@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "297c09cf9cb0e77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d2bdcdb2ec756f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf05e078dcebcfa5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Схема.canvas",
+                "viewState": {
+                  "x": -228,
+                  "y": -7.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Схема"
+            }
+          },
+          {
+            "id": "1f146a0156617f3a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Схема.canvas",
+                "viewState": {
+                  "x": -228,
+                  "y": -7.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Схема"
+            }
+          },
+          {
+            "id": "7614fe01d19fe554",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tables/Tables.canvas",
+                "viewState": {
+                  "x": -515,
+                  "y": -320,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tables"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a1e6c7520cd5edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "46cff6efcdddb698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd50d84cfe0184d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f1de63770bd8a588",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "781ff140df8e7957",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00e2cb4b1ffa34fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "68eeab0099aee93a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48ff5abdd2e8854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Схема.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Схема"
+            }
+          },
+          {
+            "id": "c4d9185b54def33a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Схема.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Схема"
+            }
+          },
+          {
+            "id": "a5e9e362fc8fd7fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "63959124cee6d8ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tables/Tables.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "remotely-save:Remotely Save": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "7614fe01d19fe554",
+  "lastOpenFiles": [
+    "Tables/Schedules.md",
+    "Tables/Client.md",
+    "Схема.canvas",
+    "Возможности.md",
+    "desktop.ini",
+    "Tables/Tables.canvas",
+    "Tables",
+    "Tables.md",
+    "jdsfkjdslfjklj.md",
+    "Добро пожаловать.md",
+    "создайте ссылку.md",
+    "jkijkljkljl.md"
+  ]
+}
