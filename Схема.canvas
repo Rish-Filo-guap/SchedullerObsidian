@@ -5,7 +5,7 @@
 		{"id":"17d8f0c15e94c469","type":"text","text":"web gateway","x":-282,"y":-180,"width":145,"height":60},
 		{"id":"ace28d88d9a3a7f4","type":"text","text":"Android-Client","x":-522,"y":-335,"width":165,"height":60},
 		{"id":"48c4815f933c4026","type":"text","text":"app gateway","x":-522,"y":-150,"width":145,"height":50},
-		{"id":"d2c8097def34ba94","type":"text","text":"Account node","x":-502,"y":80,"width":250,"height":60},
+		{"id":"d2c8097def34ba94","type":"text","text":"Account node [[Account node|Api]]","x":-502,"y":80,"width":250,"height":60},
 		{"id":"85a05d6dc88f3e9c","type":"text","text":"Schedule node","x":-219,"y":80,"width":165,"height":50},
 		{"id":"7e13205d8cad74ad","type":"text","text":"ГУАП сайт","x":-54,"y":-330,"width":120,"height":50},
 		{"id":"6d40f27b03ab3755","type":"text","text":"noSQL БД расписания","x":-209,"y":260,"width":250,"height":60}
